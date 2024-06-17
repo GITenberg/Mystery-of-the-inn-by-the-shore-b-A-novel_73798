@@ -5,6 +5,9 @@ contributor:
     agent_name: Kendrick, Charles
     gutenberg_agent_id: '57221'
     url: http://www.gutenberg.org/2009/agents/57221
+covers:
+- cover_type: archival
+  image_path: 73798-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Warden, Florence
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6480
     wikipedia: https://en.wikipedia.org/wiki/Florence_Warden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73798#Mystery-of-the-inn-by-the-shore-b-A-novel
 gutenberg_issued: '2024-06-09'
 gutenberg_type: Text
 identifiers:
